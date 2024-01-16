@@ -1,8 +1,8 @@
 <h1 id="auth-app">Auth App</h1>
 <p>A Flutter project that includes a welcome page with sign-in and sign-up functionality.</p>
 <h2 id="preview">Preview</h2>
-<p><img src="preview.png" alt="App Preview"></p>
-<p><img src="preview.gif" alt="Live Demo"></p>
+<p><img src="pic.png" alt="App Preview"></p>
+<p><img src="demo.gif" alt="Live Demo"></p>
 <h2 id="getting-started">Getting Started</h2>
 <p>These instructions will help you set up and run the project on your local machine.</p>
 <h3 id="prerequisites">Prerequisites</h3>
